@@ -13,7 +13,7 @@ be used to target different customers with different marketing campaigns, with t
 - How often do customers order from InstaCart? 
 
 ## Raw Data Sets and Dictionary
-- [customers.csv](https://github.com/MeganC73/Python-InstaCart-Grocery/files/10831647/customers.csv)
-- [departments.csv](https://github.com/MeganC73/Python-InstaCart-Grocery/files/10831648/departments.csv)
-- [products.csv](https://github.com/MeganC73/Python-InstaCart-Grocery/files/10831649/products.csv) 
+- [Products and Orders Datasets](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/4.3_orders_products.zip)
+- [Departments Dataset](https://github.com/MeganC73/Python-InstaCart-Grocery/files/10831648/departments.csv)
+- [Customers Dataset](https://github.com/MeganC73/Python-InstaCart-Grocery/files/10831678/customers.csv)
 - [InstaCart Data Dictionary](https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b)
