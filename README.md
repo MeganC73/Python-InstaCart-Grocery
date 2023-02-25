@@ -11,3 +11,9 @@ be used to target different customers with different marketing campaigns, with t
 - Are certain types of products more popular than others? 
 - Are there differences in ordering habits based on a customer's region? 
 - How often do customers order from InstaCart? 
+
+## Raw Data Sets and Dictionary
+- [customers.csv](https://github.com/MeganC73/Python-InstaCart-Grocery/files/10831647/customers.csv)
+- [departments.csv](https://github.com/MeganC73/Python-InstaCart-Grocery/files/10831648/departments.csv)
+- [products.csv](https://github.com/MeganC73/Python-InstaCart-Grocery/files/10831649/products.csv) 
+- [InstaCart Data Dictionary](https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b)
